@@ -1,3 +1,5 @@
+#set( $cssFolder = "/css/table.css" );
+
 <html>
 <head>
  <title>Velocity</title>
